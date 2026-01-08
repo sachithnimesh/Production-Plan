@@ -33,7 +33,7 @@ src/
 
 <!-- Recommended path: docs/images/production_flowchart.png -->
 
-![Production Planning Flowchart]("src\Flow chart.png")
+![Production Flowchart](https://github.com/sachithnimesh/Production-Plan/blob/main/src/Flow%20chart.png?raw=true)
 
 ---
 
@@ -177,17 +177,9 @@ Used to store:
 * AI-driven production planning
 * Reduced manual errors
 * Improved resource utilization
-
----
-
-## Future Enhancements
-
-* Direct API integration with OpenAI
 * Automated Power BI refresh
-* Planned vs actual production feedback loop
-* Predictive capacity planning
+
 
 ---
 
-## Notes
 
